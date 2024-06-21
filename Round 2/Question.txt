@@ -1,0 +1,1 @@
+The interviewie asked me to sort the lists every time a new todo is created on the basis of the priority
